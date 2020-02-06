@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "speak_out", "speak_out.csproj", "{A6D61AC8-C870-4A03-AA18-9DEC47B5A490}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6D61AC8-C870-4A03-AA18-9DEC47B5A490}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6D61AC8-C870-4A03-AA18-9DEC47B5A490}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6D61AC8-C870-4A03-AA18-9DEC47B5A490}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6D61AC8-C870-4A03-AA18-9DEC47B5A490}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9B50D02-731F-4552-8104-AF1D3F2DCD10}
+	EndGlobalSection
+EndGlobal
